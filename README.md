@@ -1,5 +1,5 @@
 # AcessosTelefoniaMovel-GeoPandas
- Mini Projeto desenvolvido como prática durante a minha jornada de aprendizagem em Data Science.
+ Mini Projeto desenvolvido como prática durante os meus estudos em Data Science.
  
   Nesse projeto foi analisada a quantidade média de acessos relativos aos principais serviços de telecomunicações (Serviço Móvel Pessoal – SMP) no estado do Maranhão no período de Jan./2022 à Fev./2022.
 
